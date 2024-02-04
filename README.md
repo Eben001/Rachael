@@ -28,7 +28,7 @@ Check out [this repository] for the backend of Rachael.
 - Record Audio
 
 ## Screenshots
-![Untitled design (2)](https://user-images.githubusercontent.com/54691862/192108449-28b82e38-a6fc-48f4-87bc-8963822d9e2c.png)
+![Untitled design (2)](https://github.com/Eben001/Rachael/assets/54691862/32a8f0c3-a3a9-4326-bbc7-e9de3b07c133)
 
 
 ## Contact
