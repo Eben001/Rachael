@@ -1,7 +1,9 @@
 # Rachael
 Rachael is an AI assistant interviewer specializing in conducting interviews for candidates applying for the position of a retail assistant. 
-Rachael is capable of responding in the human voice. This repository is the frontend of Rachael. 
-Check out [this repository] for the backend of Rachael.
+Rachael is capable of responding in the human voice. 
+[Check out the video demo here](https://share.descript.com/view/pFrgXxoBwBY)
+
+This repository is the frontend of Rachael. Check out [this repository] for the backend.
 
 ## Table of Contents
 * [General Info](#general-information)
