@@ -3,7 +3,8 @@ Rachael is an AI assistant interviewer specializing in conducting interviews for
 Rachael is capable of responding in the human voice. 
 [Check out the video demo here](https://share.descript.com/view/pFrgXxoBwBY)
 
-This repository is the frontend of Rachael. Check out [this repository] for the backend.
+This repository is the frontend of Rachael. 
+Check out [this repository](https://github.com/Eben001/RachealChat-Backend) for the backend.
 
 ## Table of Contents
 * [General Info](#general-information)
