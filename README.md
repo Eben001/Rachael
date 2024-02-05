@@ -28,7 +28,7 @@ Check out [this repository] for the backend of Rachael.
 - Record Audio
 
 ## Screenshots
-[![Untitled-design-2.png](https://i.postimg.cc/nznv4hkk/Untitled-design-2.png)](https://postimg.cc/HJPcHHFc)
+<img src="app/src/main/java/com/gana/ebenezer/rachael/screenshot.png">
 
 ## Contact
 Created by [ebenezergana](https://www.linkedin.com/in/ebenezergana/) - feel free to contact me!
