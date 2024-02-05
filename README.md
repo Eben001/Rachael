@@ -31,7 +31,6 @@ Check out [this repository](https://github.com/Eben001/RachealChat-Backend) for 
 - Record Audio
 
 ## Screenshots
-<img src="https://github.com/Eben001/Rachael/assets/54691862/b9c7d00a-0c07-4a93-a670-df2025098717" width="15%"></img> 
-
+![Screenshot](screenshot.png)
 ## Contact
 Created by [ebenezergana](https://www.linkedin.com/in/ebenezergana/) - feel free to contact me!
